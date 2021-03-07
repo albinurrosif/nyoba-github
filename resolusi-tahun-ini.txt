@@ -1,0 +1,5 @@
+resolusi tahun ini
+-belajar dasar pemrograman
+-belajar framework frontend
+-belajar javascript
+-belajar php
